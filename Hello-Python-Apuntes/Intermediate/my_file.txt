@@ -1,0 +1,5 @@
+Mi nombre es Angello 
+Mi apellido es Orrego
+Tengo 26 años
+Quiero aprender python
+vivo en chile holaa

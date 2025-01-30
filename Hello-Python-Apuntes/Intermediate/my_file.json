@@ -1,0 +1,11 @@
+{
+    "nombre": "Angello",
+    "surname": "Orrego",
+    "edad": 26,
+    "lenguajes": [
+        "Python",
+        "html",
+        "css"
+    ],
+    "website": "abor.com"
+}
